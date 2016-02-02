@@ -13,6 +13,10 @@
 	// b) Add the crazy class to the h1
 	// c) Slide toggle #box3
 
+$('#box2').on('click', function () {
+
+}); 
+
 
 // 4. When any .box is clicked, change the text in the header's h1 tag to read "jQuery Ninja"
 
